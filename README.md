@@ -45,6 +45,14 @@ Leading platforms offering robust, scalable, and high-quality Text-to-Speech API
 | **PHANTOM VOICES** | PHANTOM VOICES | 10 free professional AI voice clones via public REST API. Zero cost, commercial rights cleared. 29 platform configs (Vapi, Retell AI, etc). Multilingual (9+ languages). AI-powered recommendation. | **Free** (API Credits) / Enterprise | [PHANTOM VOICES](https://auto-business-agent.replit.app/portfolio) |
 | **Spokio** | Spokio | Offline macOS text-to-speech app with local voice cloning, batch export, and no cloud uploads. | **Free** (API Credits) / Enterprise | [Spokio](https://spokio.pro/) ||
 
+### AI Agent Voice Services
+
+Services and tools for deploying TTS in AI agent pipelines with micropayment and trust verification capabilities.
+
+| Service/Model | Organization | Key Features | Link |
+| --- | --- | --- | --- |
+| **TWZRD Agent Intel** | TWZRD | Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments. 4 free tools + 1 paid. Remote streamable-http. | [TWZRD Agent Intel](https://intel.twzrd.xyz) |
+
 ### Open-Source Text-to-Speech Libraries & Projects
 
 Explore powerful open-source toolkits and projects for local deployment, research, and custom TTS development.
